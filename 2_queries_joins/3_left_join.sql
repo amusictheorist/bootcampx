@@ -1,0 +1,1 @@
+FROM students LEFT OUTER JOIN cohorts ON cohorts.id = cohort_id;
